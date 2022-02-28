@@ -1,0 +1,40 @@
+
+.imgs{
+	width: 8em;
+	height: 8em;
+}
+
+#composantradio{
+	display:inline-block;
+	margin-right: 10em;
+}
+
+.radio_selec{
+	text-align: center;
+}
+
+#lancerlaradio{
+	text-align: center;
+	border:solid;
+	border-color: red #32a1ce;
+
+	img{
+		height:150px;
+	}
+}
+
+.btn{
+	height:8em;
+	width:8em;
+}
+
+#composantag{
+	display: inline-block;
+	margin-right: 1em;
+	border:solid;
+}
+
+#tags{
+	margin-right:1em;
+	text-align: center;
+}
